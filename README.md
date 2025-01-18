@@ -3,7 +3,7 @@
 Quine McCluskey optimizer is a Python-based app that utilizes Quine McCluskey algorithm to optimize gate representation of logic functions
 
 ## Authors
-Group - A3/L5
+Group - A3/L5 <br />
 AndrewJHK - Andrzej Kowalski <br />
 Vinterion - Wiktor Kowalewski <br />
 <br />
